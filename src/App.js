@@ -152,7 +152,7 @@ function App() {
             const headers = {
                 'accept': 'application/json',
                 'content-type': 'application/json',
-                'authorization': `SSWS 005MYmfA0MJFVUs8i4HOPG8fryK7cdnjqKXvmcd2Hv`
+                'authorization': `SSWS asd`
             }
           
             let nextLink = null
